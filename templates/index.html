@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Buy
+{% endblock %}
+
+{% block main %}
+    <center><table style="width:500px;">
+        <tr>
+            <th>User_Id</th>
+            <th>User_Name</th>
+            <th>Stocks</th>
+            <th>Number</th>
+            <th>Current_Price</th>
+            <th>Grand Total</th>
+        </tr>
+        <tr>
+            <td>{{ Id }}</td>
+            <td>{{ username }}</td>
+            <td>{% for rows in trans %}
+                <p>
+                    {{ rows["symbol"] }}
+                </p>
+                {% endfor %}
+            </td>
+            <td>{% for rows in trans %}
+                <p>
+                    {{ rows["nos"] }}
+                </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in curp %}
+                <p>
+                    {{ rows }}
+                </p>
+                {% endfor %}
+            </td>
+            <td>
+                {{ value }}
+            </td>
+        </tr>
+    </table></center>
+{% endblock %}

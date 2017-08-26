@@ -1,0 +1,71 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Buy
+{% endblock %}
+
+{% block main %}
+    <center><table style="width:700px;">
+        <tr>
+            <th>Trans_Id</th>
+            <th>Symbol</th>
+            <th>Unit Price</th>
+            <th>Shares</th>
+            <th>Total_amount</th>
+            <th style="width:200px;">Date and Time</th>
+            <th>Transaction</th>
+        </tr>
+        <tr>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["trans_id"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["symbol"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["unit_price"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["shares"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["total_amount"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["date"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            <td>
+                {% for rows in lit %}
+                    <p>
+                        {{ rows["bors"] }}
+                    </p>
+                {% endfor %}
+            </td>
+            
+        </tr>
+    </table></center>
+{% endblock %}
