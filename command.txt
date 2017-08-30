@@ -1,0 +1,1 @@
+ConsoleTestRunner Dice.dll mstest
