@@ -1,0 +1,13 @@
+0.  Longest word in english. 45 characters. It is the invented long word, which means a lung disease.
+1.  This is used to get the resource usage measures and statistics. It can used to get these measures either for the calling process, childern or calling thread.
+2.  Total 16 members are there in struct rusage.
+3.  The struct rusage has values which need to be maintained throught the course of the program, like ru_stime,etc. It will be difficult to pass on these values thorough functions. So, we send only the pointer to this.
+4.  The main for loops functions as follows:
+        Initially, it reads single character at a time. Checks the for loop exit condition: !=EOF and enters.
+        Then the character is checked if it is indeed a alphabet or an apostrophe. If true, it is appended into word string.
+        If the word string exceeds the length, i.e, if a bigger word is inputted, it is discarded and a new word is taken.
+        Similarly, all numericals are discarded.
+        After taking the word, it is checked for mispelling. Time taken is noted down.
+        Then all the mispelled words are printed one by one.
+5.  Completely relying on fscanf is risky, as we may end up reading very big words, whose lengths are greater than 45. We might alse be reading integer values.
+6.  These are constant pointers, which mean they can only point to one thing. It cannot be changed. To remain same, without any change, through-out the program, they have been made constant.
