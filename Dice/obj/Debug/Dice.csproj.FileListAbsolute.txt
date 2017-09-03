@@ -1,0 +1,37 @@
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\Dice.dll.config
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\Dice.dll
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\Dice.pdb
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\WebDriver.dll
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\WebDriver.Support.dll
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\WebDriver.xml
+C:\Share\OldDeskTop\Demo-Selinium\Dice\bin\Debug\WebDriver.Support.xml
+C:\Share\OldDeskTop\Demo-Selinium\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Share\OldDeskTop\Demo-Selinium\Dice\obj\Debug\Dice.dll
+C:\Share\OldDeskTop\Demo-Selinium\Dice\obj\Debug\Dice.pdb
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Dice.dll.config
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Dice.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Dice.pdb
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Bytescout.Spreadsheet.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\WebDriver.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\WebDriver.Support.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Bytescout.Spreadsheet.xml
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\WebDriver.xml
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\WebDriver.Support.xml
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\obj\Debug\Dice.dll
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\obj\Debug\Dice.pdb
+C:\WorkSpace\CSharp\Demo-Selinium\Dice\bin\Debug\App.config
+C:\Users\Assassin Xtreme\Desktop\Dice\obj\Debug\Dice.dll
+C:\Users\Assassin Xtreme\Desktop\Dice\obj\Debug\Dice.pdb
+C:\Users\Assassin Xtreme\Desktop\Dice\bin\Debug\App.config
+C:\Users\Assassin Xtreme\Desktop\Dice\bin\Debug\Dice.dll.config
+C:\Users\Assassin Xtreme\Desktop\Dice\bin\Debug\Dice.dll
+C:\Users\Assassin Xtreme\Desktop\Dice\bin\Debug\Dice.pdb
+C:\Users\Assassin Xtreme\Desktop\Dice\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Assassin Xtreme\Desktop\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
